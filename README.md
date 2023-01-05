@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Steven
-- :books: I studied Computer Science at Asia Pacific University, Malaysia
+- :books: BSc (Hons) in Computer Science, Asia Pacific University Malaysia
 - :grin: Feel free to work together with me
 - :link: Check out my LinkedIn Profile: https://www.linkedin.com/in/stevenstv/
 <!---
